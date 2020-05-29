@@ -85,7 +85,7 @@ WSGI_APPLICATION = 'hofvidz.wsgi.application'
 DATABASES = {
     'default': dj_database_url.config()
     }
-}
+
 
 
 # Password validation
